@@ -1,4 +1,8 @@
-# ![MultiQC Jupyter Notebook Example](https://multiqc.info/logos/MultiQC_logo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://multiqc.info/logos/multiqc_logo_darkbg.png">
+  <img alt="MultiQC Jupyter Notebook Example" src="https://multiqc.info/logos/multiqc_logo_color.png">
+</picture>
+
 ## Jupyter Notebook example
 
 An example of using MultiQC from within a [Jupyter](https://jupyter.org/) Notebook.
