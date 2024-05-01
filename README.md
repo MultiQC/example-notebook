@@ -7,9 +7,6 @@
 
 An example of using MultiQC from within a [Jupyter](https://jupyter.org/) Notebook.
 
-> **Current status:** This repository is currently under active development
-> and is not ready for use yet. Please check back soon! _[November 2019]_
-
 ### Quickstart
 
 #### Running on Google Colab
@@ -22,8 +19,8 @@ https://colab.research.google.com/github/MultiQC/MultiQC_Notebook/blob/master/mu
 Run locally by installing [Jupyter](https://jupyter.org/) and launching within this directory:
 
 ```bash
-git clone https://github.com/MultiQC/MultiQC_Notebook.git
-cd MultiQC_Notebook
+git clone https://github.com/MultiQC/example-notebook.git
+cd example-notebook
 jupyter lab
 ```
 
